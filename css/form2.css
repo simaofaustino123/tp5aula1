@@ -1,0 +1,23 @@
+h1 {
+    color: white;
+    text-align: center;
+    font-family: Aryal, sans-serif;
+    font-weight: 800;
+    background-color: darkgray;
+}
+
+h3 {
+    color: white;;
+    background-color: darkgray;
+}
+
+dd {
+    color: darkgray;
+    font-size: 20px;
+    background-color: chartreuse;
+}
+
+
+a {
+    font-size: 20px;
+}
